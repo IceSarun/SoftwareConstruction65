@@ -1,0 +1,3 @@
+usa,ruj,Nice to meet you too,ruj,I
+ruj,usa,hello,usa,Nice to meet you,usa,123
+saac,usa,java is fun,usa,I love java,ruj,I hate javausa,ruj,Nice to meet you too
